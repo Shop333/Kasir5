@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered bold storefront silhouette in the 66dp safe-zone (bounds: 21 to 87 in 108dp canvas) -->
+    <path
+        android:fillColor="#00A86B"
+        android:pathData="M24,79h60v6h-60z \
+                     M28,45 l5,12 h42 l5,-12 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M24,43h60v6h-60z \
+                          M24,25 l3,12 h54 l3,-12 z \
+                          M30,57v22h8v-22z \
+                          M44,57v22h8v-22z \
+                          M58,57v22h8v-22z \
+                          M72,57v22h6v-22z" />
+</vector>

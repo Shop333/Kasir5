@@ -1,0 +1,6 @@
+{
+  "name": "Sembako Modern",
+  "description": "A clean, native point-of-sale application for grocery stores and sembako retail with local database support, offline capability, dynamic charts, barcode simulation, and Bluetooth thermal printer design instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
